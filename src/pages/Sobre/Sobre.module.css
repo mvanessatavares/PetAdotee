@@ -1,0 +1,31 @@
+.about {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  content: "";
+  display: table;
+  clear: both;
+  position: absolute;
+  top: 15%;
+  left: 22%;
+
+}
+
+.about a {
+  display: block;
+  margin-top: 15px;
+  padding: 10px 15px;
+  display: inline-block;
+  text-align: center;
+  
+}
+.about p{
+  font-family: Irish Grover;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+
+}
+

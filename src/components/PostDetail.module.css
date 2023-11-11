@@ -1,0 +1,62 @@
+.post_detail {
+  margin-bottom: 2em;
+}
+
+.post_detail img {
+  max-width: 600px;
+}
+
+.post_detail h2 {
+  margin-bottom: 0.4em;
+}
+
+.post_detail .tags {
+  margin-bottom: 1.2em;
+  display: flex;
+  text-align: center;
+}
+
+.tags p {
+  margin-right: 0.5em;
+  text-align: center;
+}
+
+.tags span {
+  font-weight: bold;
+  text-align: center;
+}
+
+.createdby {
+  font-style: italic;
+  color: #a34545;
+  font-size: 0.8em;
+  margin-bottom: 1em;
+}
+
+.tags .botao {
+  margin-right: 40px;
+}
+
+.teste_cont :link{
+  position: absolute;
+  top: 850px;
+  right: 800px;
+  background-color: #4CAF50; /* cor de fundo */
+  border: none; /* remove a borda */
+  color: white; /* cor do texto */
+  padding: 10px 20px; /* espaçamento interno */
+  text-align: center; /* alinhamento do texto */
+  display: inline-block; /* exibe como bloco */
+  font-size: 16px; /* tamanho da fonte */
+  transition-duration: 0.4s; /* duração da transição */
+  cursor: pointer; /* cursor ao passar o mouse */
+  border-radius: 8px; /* borda arredondada */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* sombra */ 
+  width: 100px;
+  height: 20px;
+}
+
+
+
+
+
